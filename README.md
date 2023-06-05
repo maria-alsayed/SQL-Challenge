@@ -1,4 +1,4 @@
-# SQL-Challange
+# SQL-Challenge
 1.Data Engineering / Data Modeling
 
 2.Data Analysis
